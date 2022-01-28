@@ -1,5 +1,6 @@
 Andres Rocher Escriva
 (A) Benvinguda a la branca 01 NomAlumne
 (B) Modificació 01 Main AndresRocher
+(C) Benvinguda a la branca 02 Andres Rocher
 (D) Modificació 02 Main AndresRocher
 (E) Afegim imatge a branca01
