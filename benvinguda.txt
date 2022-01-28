@@ -4,3 +4,4 @@ Andres Rocher Escriva
 (C) Benvinguda a la branca 02 Andres Rocher
 (D) Modificació 02 Main AndresRocher
 (E) Afegim imatge a branca01
+(F) Afegim imatge a branca02
