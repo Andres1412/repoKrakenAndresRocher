@@ -1,2 +1,3 @@
 Andres Rocher Escriva
-(B) Modificació 01 Main NomAlumne
+(B) Modificació 01 Main AndresRocher
+(D) Modificació 02 Main AndresRocher
